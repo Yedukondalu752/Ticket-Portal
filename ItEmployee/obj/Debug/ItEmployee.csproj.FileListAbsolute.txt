@@ -1,0 +1,592 @@
+E:\ItEmployee\ItEmployee\bin\ItEmployee.dll.config
+E:\ItEmployee\ItEmployee\bin\ItEmployee.dll
+E:\ItEmployee\ItEmployee\bin\ItEmployee.pdb
+E:\ItEmployee\ItEmployee\bin\roslyn\csc.exe
+E:\ItEmployee\ItEmployee\bin\roslyn\csc.exe.config
+E:\ItEmployee\ItEmployee\bin\roslyn\csc.rsp
+E:\ItEmployee\ItEmployee\bin\roslyn\csi.exe
+E:\ItEmployee\ItEmployee\bin\roslyn\csi.exe.config
+E:\ItEmployee\ItEmployee\bin\roslyn\csi.rsp
+E:\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ItEmployee\ItEmployee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ItEmployee\ItEmployee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.AppContext.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Collections.Immutable.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Console.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Globalization.Calendars.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.IO.Compression.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.IO.FileSystem.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Net.Http.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Net.Sockets.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Reflection.Metadata.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.ValueTuple.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XPath.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ItEmployee\ItEmployee\bin\roslyn\vbc.exe
+E:\ItEmployee\ItEmployee\bin\roslyn\vbc.exe.config
+E:\ItEmployee\ItEmployee\bin\roslyn\vbc.rsp
+E:\ItEmployee\ItEmployee\bin\roslyn\VBCSCompiler.exe
+E:\ItEmployee\ItEmployee\bin\roslyn\VBCSCompiler.exe.config
+E:\ItEmployee\ItEmployee\bin\Antlr3.Runtime.dll
+E:\ItEmployee\ItEmployee\bin\AspNet.ScriptManager.bootstrap.dll
+E:\ItEmployee\ItEmployee\bin\AspNet.ScriptManager.jQuery.dll
+E:\ItEmployee\ItEmployee\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\ItEmployee\ItEmployee\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\ItEmployee\ItEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ItEmployee\ItEmployee\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\ItEmployee\ItEmployee\bin\Microsoft.ScriptManager.WebForms.dll
+E:\ItEmployee\ItEmployee\bin\Microsoft.Web.Infrastructure.dll
+E:\ItEmployee\ItEmployee\bin\Newtonsoft.Json.dll
+E:\ItEmployee\ItEmployee\bin\System.Web.Optimization.dll
+E:\ItEmployee\ItEmployee\bin\WebGrease.dll
+E:\ItEmployee\ItEmployee\bin\System.Web.Optimization.xml
+E:\ItEmployee\ItEmployee\bin\Newtonsoft.Json.xml
+E:\ItEmployee\ItEmployee\bin\Antlr3.Runtime.pdb
+E:\ItEmployee\ItEmployee\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\ItEmployee\ItEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.AssemblyReference.cache
+E:\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.CoreCompileInputs.cache
+E:\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.CopyComplete
+E:\ItEmployee\ItEmployee\obj\Debug\ItEmployee.dll
+E:\ItEmployee\ItEmployee\obj\Debug\ItEmployee.pdb
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\ItEmployee.dll.config
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\ItEmployee.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\ItEmployee.pdb
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\csc.exe
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\csc.exe.config
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\csc.rsp
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\csi.exe
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\csi.exe.config
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\csi.rsp
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.AppContext.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Collections.Immutable.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Console.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Globalization.Calendars.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.IO.Compression.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.IO.FileSystem.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Net.Http.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Net.Sockets.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Reflection.Metadata.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.ValueTuple.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XPath.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\vbc.exe
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\vbc.exe.config
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\vbc.rsp
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\VBCSCompiler.exe
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\roslyn\VBCSCompiler.exe.config
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\Antlr3.Runtime.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\AspNet.ScriptManager.jQuery.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\Microsoft.Web.Infrastructure.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\Newtonsoft.Json.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\System.Web.Optimization.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\WebGrease.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\System.Web.Optimization.xml
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\Newtonsoft.Json.xml
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\Antlr3.Runtime.pdb
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.AssemblyReference.cache
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.CoreCompileInputs.cache
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.CopyComplete
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\obj\Debug\ItEmployee.dll
+E:\Yedukondalu Folder very Important\ItEmployee\ItEmployee\obj\Debug\ItEmployee.pdb
+E:\Itemp\ItEmployee\ItEmployee\bin\ItEmployee.dll.config
+E:\Itemp\ItEmployee\ItEmployee\bin\ItEmployee.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\ItEmployee.pdb
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\csc.exe
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\csc.exe.config
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\csc.rsp
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\csi.exe
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\csi.exe.config
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\csi.rsp
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.AppContext.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Collections.Immutable.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Console.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Globalization.Calendars.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.IO.Compression.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.IO.FileSystem.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Net.Http.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Net.Sockets.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Reflection.Metadata.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.ValueTuple.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XPath.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\vbc.exe
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\vbc.exe.config
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\vbc.rsp
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\VBCSCompiler.exe
+E:\Itemp\ItEmployee\ItEmployee\bin\roslyn\VBCSCompiler.exe.config
+E:\Itemp\ItEmployee\ItEmployee\bin\Antlr3.Runtime.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\AspNet.ScriptManager.jQuery.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\Microsoft.Web.Infrastructure.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\Newtonsoft.Json.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\System.Web.Optimization.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\WebGrease.dll
+E:\Itemp\ItEmployee\ItEmployee\bin\System.Web.Optimization.xml
+E:\Itemp\ItEmployee\ItEmployee\bin\Newtonsoft.Json.xml
+E:\Itemp\ItEmployee\ItEmployee\bin\Antlr3.Runtime.pdb
+E:\Itemp\ItEmployee\ItEmployee\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Itemp\ItEmployee\ItEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Itemp\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.AssemblyReference.cache
+E:\Itemp\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.CoreCompileInputs.cache
+E:\Itemp\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.CopyComplete
+E:\Itemp\ItEmployee\ItEmployee\obj\Debug\ItEmployee.dll
+E:\Itemp\ItEmployee\ItEmployee\obj\Debug\ItEmployee.pdb
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\ItEmployee.dll.config
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\ItEmployee.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\ItEmployee.pdb
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\csc.exe
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\csc.exe.config
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\csc.rsp
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\csi.exe
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\csi.exe.config
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\csi.rsp
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Managed.Core.targets
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.AppContext.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Collections.Immutable.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Console.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Globalization.Calendars.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.IO.Compression.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.IO.FileSystem.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Net.Http.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Net.Sockets.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Reflection.Metadata.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.ValueTuple.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XmlDocument.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XPath.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\vbc.exe
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\vbc.exe.config
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\vbc.rsp
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\VBCSCompiler.exe
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\roslyn\VBCSCompiler.exe.config
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\Antlr3.Runtime.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\AspNet.ScriptManager.bootstrap.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\AspNet.ScriptManager.jQuery.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\Microsoft.ScriptManager.WebForms.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\Microsoft.Web.Infrastructure.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\Newtonsoft.Json.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\System.Web.Optimization.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\WebGrease.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\System.Web.Optimization.xml
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\Newtonsoft.Json.xml
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\Antlr3.Runtime.pdb
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.AssemblyReference.cache
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.CoreCompileInputs.cache
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.CopyComplete
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\obj\Debug\ItEmployee.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\obj\Debug\ItEmployee.pdb
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\ItEmployee.dll.config
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\ItEmployee.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\ItEmployee.pdb
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\csc.exe
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\csc.exe.config
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\csc.rsp
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\csi.exe
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\csi.exe.config
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\csi.rsp
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.AppContext.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Collections.Immutable.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Console.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Globalization.Calendars.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.IO.Compression.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.IO.FileSystem.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Net.Http.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Net.Sockets.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Reflection.Metadata.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.ValueTuple.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XPath.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\vbc.exe
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\vbc.exe.config
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\vbc.rsp
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\VBCSCompiler.exe
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\roslyn\VBCSCompiler.exe.config
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\Antlr3.Runtime.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\AspNet.ScriptManager.jQuery.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\Microsoft.Web.Infrastructure.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\Newtonsoft.Json.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\System.Web.Optimization.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\WebGrease.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\System.Web.Optimization.xml
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\Newtonsoft.Json.xml
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\Antlr3.Runtime.pdb
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.AssemblyReference.cache
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.CoreCompileInputs.cache
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.CopyComplete
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\obj\Debug\ItEmployee.dll
+E:\Yedukondalu Folder very Important\Emptrack\ItEmployee\ItEmployee\obj\Debug\ItEmployee.pdb
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\ItEmployee.dll.config
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\ItEmployee.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\ItEmployee.pdb
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csc.exe
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csc.exe.config
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csc.rsp
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csi.exe
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csi.exe.config
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csi.rsp
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Managed.Core.targets
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.AppContext.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Collections.Immutable.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Console.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Globalization.Calendars.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.IO.Compression.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.IO.FileSystem.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Net.Http.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Net.Sockets.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Reflection.Metadata.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.ValueTuple.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XmlDocument.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XPath.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\vbc.exe
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\vbc.exe.config
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\vbc.rsp
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\VBCSCompiler.exe
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\VBCSCompiler.exe.config
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\Antlr3.Runtime.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\AspNet.ScriptManager.bootstrap.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\AspNet.ScriptManager.jQuery.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.ScriptManager.WebForms.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.Web.Infrastructure.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\Newtonsoft.Json.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\System.Web.Optimization.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\WebGrease.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\System.Web.Optimization.xml
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\Newtonsoft.Json.xml
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\Antlr3.Runtime.pdb
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.AssemblyReference.cache
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.CoreCompileInputs.cache
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.CopyComplete
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\obj\Debug\ItEmployee.dll
+E:\all final boards\Emptrack\ItEmployee\ItEmployee\ItEmployee\obj\Debug\ItEmployee.pdb
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\ItEmployee.dll.config
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\ItEmployee.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\ItEmployee.pdb
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csc.exe
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csc.exe.config
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csc.rsp
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csi.exe
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csi.exe.config
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csi.rsp
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Managed.Core.targets
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.AppContext.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Collections.Immutable.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Console.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Globalization.Calendars.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.IO.Compression.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.IO.FileSystem.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Net.Http.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Net.Sockets.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Reflection.Metadata.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.ValueTuple.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XmlDocument.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XPath.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\vbc.exe
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\vbc.exe.config
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\vbc.rsp
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\VBCSCompiler.exe
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\VBCSCompiler.exe.config
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\Antlr3.Runtime.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\AspNet.ScriptManager.bootstrap.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\AspNet.ScriptManager.jQuery.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.ScriptManager.WebForms.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.Web.Infrastructure.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\Newtonsoft.Json.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\System.Web.Optimization.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\WebGrease.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\System.Web.Optimization.xml
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\Newtonsoft.Json.xml
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\Antlr3.Runtime.pdb
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.AssemblyReference.cache
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.CoreCompileInputs.cache
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.CopyComplete
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\obj\Debug\ItEmployee.dll
+E:\New folder\ItEmployee\ItEmployee\ItEmployee\obj\Debug\ItEmployee.pdb
+D:\ItEmployee\ItEmployee\ItEmployee\bin\ItEmployee.dll.config
+D:\ItEmployee\ItEmployee\ItEmployee\bin\ItEmployee.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\ItEmployee.pdb
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csc.exe
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csc.exe.config
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csc.rsp
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csi.exe
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csi.exe.config
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\csi.rsp
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.AppContext.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Collections.Immutable.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Console.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Globalization.Calendars.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.IO.Compression.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.IO.FileSystem.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Net.Http.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Net.Sockets.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Reflection.Metadata.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.ValueTuple.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XPath.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\vbc.exe
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\vbc.exe.config
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\vbc.rsp
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\VBCSCompiler.exe
+D:\ItEmployee\ItEmployee\ItEmployee\bin\roslyn\VBCSCompiler.exe.config
+D:\ItEmployee\ItEmployee\ItEmployee\bin\Antlr3.Runtime.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\AspNet.ScriptManager.jQuery.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.Web.Infrastructure.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\Newtonsoft.Json.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\System.Web.Optimization.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\WebGrease.dll
+D:\ItEmployee\ItEmployee\ItEmployee\bin\System.Web.Optimization.xml
+D:\ItEmployee\ItEmployee\ItEmployee\bin\Newtonsoft.Json.xml
+D:\ItEmployee\ItEmployee\ItEmployee\bin\Antlr3.Runtime.pdb
+D:\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ItEmployee\ItEmployee\ItEmployee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ItEmployee\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.AssemblyReference.cache
+D:\ItEmployee\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.CoreCompileInputs.cache
+D:\ItEmployee\ItEmployee\ItEmployee\obj\Debug\ItEmployee.csproj.CopyComplete
+D:\ItEmployee\ItEmployee\ItEmployee\obj\Debug\ItEmployee.dll
+D:\ItEmployee\ItEmployee\ItEmployee\obj\Debug\ItEmployee.pdb

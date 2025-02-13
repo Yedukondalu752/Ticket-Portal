@@ -1,0 +1,406 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ItEmployee.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <style>
+    /* Style for suggestion list */
+    #autocomplete-results1 {
+      list-style: none;
+      padding: 0;
+      margin-top: 5px;
+      border: 1px solid #ccc;
+      position: absolute;
+      width: 198px;
+      background: white;
+      z-index: 1000;
+      display: none;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Optional: adds a small shadow to the suggestion box */
+    }
+
+    #autocomplete-results1 li {
+      padding: 8px;
+      cursor: pointer;
+    }
+
+    #autocomplete-results1 li:hover {
+      background-color: #f0f0f0;
+    }
+
+    /* Ensure the input field is inside a positioned container */
+    .autocomplete-container1 {
+      position: relative;
+      display: inline-block;
+    }
+
+    .input-field {
+      height: 29px;
+      width: 198px;
+      padding-left: 8px;
+      box-sizing: border-box;
+    }
+
+    .search-button {
+      height: 28px;
+      padding: 0 10px;
+      margin-left: 10px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
+    <style>
+    /* Style for suggestion list */
+    #autocomplete-results {
+      list-style: none;
+      padding: 0;
+      margin-top: 5px;
+      border: 1px solid #ccc;
+      position: absolute;
+      width: 198px;
+      background: white;
+      z-index: 1000;
+      display: none;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Optional: adds a small shadow to the suggestion box */
+    }
+
+    #autocomplete-results li {
+      padding: 8px;
+      cursor: pointer;
+    }
+
+    #autocomplete-results li:hover {
+      background-color: #f0f0f0;
+    }
+
+    /* Ensure the input field is inside a positioned container */
+    .autocomplete-container {
+      position: relative;
+      display: inline-block;
+    }
+
+    .input-field {
+      height: 29px;
+      width: 198px;
+      padding-left: 8px;
+      box-sizing: border-box;
+    }
+
+    .search-button {
+      height: 28px;
+      padding: 0 10px;
+      margin-left: 10px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
+    <!-- Only include jQuery once -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+
+    <!-- jQuery UI for autocomplete -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    
+    <script type="text/javascript" src="Scripts/xlsx.full.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+
+    <script src="Scripts/Allinone.js"></script>
+    <script src="Scripts/FormatDate.js"></script>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - Ticket System</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/suvarna_logo_dark.JPEG" rel="shortcut icon" type="image/x-icon" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="A fully featured admin theme which can be used to build CRM, CMS, etc." name="description" />
+    <meta content="Coderthemes" name="author" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- App favicon -->
+    <link rel="shortcut icon" href="assets/images/suvarna_logo_dark.JPEG">
+
+    <!-- Plugins css -->
+    <link href="assets/style.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
+
+    <!-- Bootstrap css -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <!-- App css -->
+    <link href="assets/css/app.min.css" rel="stylesheet" type="text/css" />
+
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <div id="wrapper">
+            <!-- Topbar Start -->
+            <div class="navbar-custom">
+                <div class="container-fluid">
+                    <ul class="list-unstyled topnav-menu float-end mb-0">
+                        <li class="dropdown d-inline-block d-lg-none">
+                            <a class="nav-link dropdown-toggle arrow-none waves-effect waves-light"
+                               data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="false"
+                               aria-expanded="false">
+                                <i class="fe-search noti-icon"></i>
+                            </a>
+                            <div class="dropdown-menu dropdown-lg dropdown-menu-end p-0">
+                                <form class="p-3">
+                                    <!-- Search input field with id for autocomplete -->
+                                    <input id="autocomplete-search" type="text" class="form-control" placeholder="Search ..."
+                                           aria-label="Recipient's username">
+                                </form>
+                            </div>
+                        </li>
+
+                        <li class="dropdown notification-list" id="logout">
+                            <a class="nav-link waves-effect waves-light">
+                                <i class="fa-solid fa-right-from-bracket" title="Log out" style="font-size: initial;"></i>
+                            </a>
+                        </li>
+                    </ul>
+
+                    <ul class="list-unstyled topnav-menu topnav-menu-left m-0">
+                        <li>
+                            <!-- LOGO -->
+                            <div class="logo-box">
+                                <a  class="logo logo-dark text-center">
+                                    <span class="logo-sm">
+                                        <img src="assets/images/logo.png" alt="" height="30">
+                                    </span>
+                                    <span class="logo-lg">
+                                        <img src="assets/images/suvarna_logo_dark.JPEG" alt="" height="25">
+                                    </span>
+                                </a>
+                                <a  class="logo logo-light text-center">
+                                    <span class="logo-sm">
+                                        <img src="assets/images/logo.png" alt="" height="30">
+                                    </span>
+                                    <span class="logo-lg">
+                                        <img src="assets/images/suvarna_logo_dark.JPEG" alt="" height="25">
+                                    </span>
+                                </a>
+                        <div class="autocomplete-container">
+    <!-- Text input for searching -->
+    <input type="text" id="txtdocs" class="input-field" placeholder="Search here" />
+<input type="button" id="btnsearchdoc" value="Search"     style="height: 29px;
+    background: antiquewhite;" />
+    <!-- Dropdown for suggestions -->
+    <ul id="autocomplete-results"></ul>
+  </div>
+
+
+                            </div>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+          
+            <footer class="footer">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <strong>Organization:</strong><span> My Diagnostics</span>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="d-flex">
+                                <div class="me-2"><strong>User:</strong> <span id="spnuser"></span></div>
+                                <div class="me-2"><strong>Log in at:</strong> <span id="spnuserlogindt"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+        <input type="hidden" id="hdnseldeptid" />
+        <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+    </form>
+
+    <script src="assets/js/vendor.min.js"></script>
+    <script src="assets/js/app.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <!-- Autocomplete Script -->
+    <script>
+        
+        var suggestionsData = [];
+        var Departmentsdata = [];
+        $(document).ready(function () {
+
+            $('[id*=txtdepartment]').keyup(function () {
+
+                if ($('[id*=txtdepartment]').val().length > 2) {
+                    let $inputField = $('[id*=txtdepartment]');
+                    let $resultsContainer = $('#autocomplete-results1');
+
+                    // Function to update suggestion list
+                    function updateSuggestions1(query) {
+                        if (query.length === 0) {
+                            $resultsContainer.hide();  // Hide suggestions if the input is empty
+                            return;
+                        }
+
+                        // Filter suggestions based on the query
+                        const filteredSuggestions = Departmentsdata.filter(item =>
+                            item.name.toLowerCase().includes(query.toLowerCase())
+                        );
+
+                        $resultsContainer.empty(); // Clear previous results
+
+                        if (filteredSuggestions.length > 0) {
+                            // Populate new results
+                            $.each(filteredSuggestions, function (index, item) {
+                                const $li = $('<li></li>').text(item.name).css({
+                                    'padding': '8px',
+                                    'cursor': 'pointer'
+                                });
+
+                                // When a suggestion is clicked, update the input field with the suggestion value
+                                $li.on('click', function () {
+                                    $inputField.val(item.name);
+                                    $('[id*=hdnseldeptid]').val(item.id)// Set the input field value
+                                    $resultsContainer.hide();   // Hide suggestion list after selection
+                                });
+
+                                $resultsContainer.append($li);
+                            });
+
+                            $resultsContainer.show();  // Show the suggestion list
+                        } else {
+                            $resultsContainer.hide();  // Hide if no suggestions match
+                        }
+                    }
+
+                    // Event listener for input (filter suggestions)
+                    $inputField.on('input', function () {
+                        const query = $inputField.val().trim();  // Get the trimmed input value
+                        updateSuggestions1(query);  // Update suggestions dynamically based on input
+                    });
+
+                    // Hide suggestion list if the user clicks outside the input field or suggestion list
+                    $(document).on('click', function (event) {
+                        if (!$(event.target).closest('.autocomplete-container1').length) {
+                            $resultsContainer.hide();  // Hide the dropdown if clicked outside
+                        }
+                    });
+                }
+            })
+
+            BindDocuments();
+            suggestionsData = JSON.parse(sessionStorage.getItem('Docnames'));
+            //var suggestionsData = [
+            //    { "name": "Apple" },
+            //    { "name": "Banana" },
+            //    { "name": "Cherry" }
+            //];
+
+            let $inputField = $('#txtdocs');
+            let $resultsContainer = $('#autocomplete-results');
+
+            // Function to update suggestion list
+            function updateSuggestions(query) {
+                if (query.length === 0) {
+                    $resultsContainer.hide();  // Hide suggestions if the input is empty
+                    return;
+                }
+
+                // Filter suggestions based on the query
+                const filteredSuggestions = suggestionsData.filter(item =>
+                    item.name.toLowerCase().includes(query.toLowerCase())
+                );
+
+                $resultsContainer.empty(); // Clear previous results
+
+                if (filteredSuggestions.length > 0) {
+                    // Populate new results
+                    $.each(filteredSuggestions, function (index, item) {
+                        const $li = $('<li></li>').text(item.name).css({
+                            'padding': '8px',
+                            'cursor': 'pointer'
+                        });
+
+                        // When a suggestion is clicked, update the input field with the suggestion value
+                        $li.on('click', function () {
+                            $inputField.val(item.name); // Set the input field value
+                            $resultsContainer.hide();   // Hide suggestion list after selection
+                        });
+
+                        $resultsContainer.append($li);
+                    });
+
+                    $resultsContainer.show();  // Show the suggestion list
+                } else {
+                    $resultsContainer.hide();  // Hide if no suggestions match
+                }
+            }
+
+            // Event listener for input (filter suggestions)
+            $inputField.on('input', function () {
+                const query = $inputField.val().trim();  // Get the trimmed input value
+                updateSuggestions(query);  // Update suggestions dynamically based on input
+            });
+
+            // Hide suggestion list if the user clicks outside the input field or suggestion list
+            $(document).on('click', function (event) {
+                if (!$(event.target).closest('.autocomplete-container').length) {
+                    $resultsContainer.hide();  // Hide the dropdown if clicked outside
+                }
+            });
+        })
+        if (window.location.pathname.split('/')[1] == "Default.aspx") {
+            const togglePassword = document.getElementById('togglePassword');
+            const passwordField = document.getElementById('Password');
+            const eyeIcon = document.getElementById('eyeIcon');
+
+            togglePassword.addEventListener('click', function () {
+                // Toggle the type between password and text
+                const type = passwordField.type === 'password' ? 'text' : 'password';
+                passwordField.type = type;
+
+                // Toggle the eye icon (closed/open)
+                if (type === 'password') {
+                    eyeIcon.classList.remove('fa-eye-slash');
+                    eyeIcon.classList.add('fa-eye');
+                } else {
+                    eyeIcon.classList.remove('fa-eye');
+                    eyeIcon.classList.add('fa-eye-slash');
+                }
+            });
+        }
+    </script>
+</body>
+</html>
